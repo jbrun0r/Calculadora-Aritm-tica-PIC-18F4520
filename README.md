@@ -16,7 +16,7 @@ _KEYPAD-SMALLCALC_ do proteus.
 
 ## Design:
 
-![fundo](https://github.com/jbrun0r/Calculadora-Aritm-tica-PIC-18F4520/blob/main/CALC.png?raw=true)
+![fundo](https://github.com/jbrun0r/Calculadora-Aritm-tica-PIC-18F4520/blob/main/CALC.png?raw=true)\
 Utilizei o **Proteus Design Suite (Proteus)** para a criação do projeto eletrônico, composto por uma suíte de ferramentas, incluindo captura esquemática, simulação e módulos de projetos de placas de circuito impresso, usadas principalmente para o projeto de circuitos integrados. Utilizei O **MPLAB IDE** para gerenciamento do projeto e **Compilador C18**.\
 Seguindo as orientações do datasheet do PIC supracitado, escreveremos o código/lógica em linguagem .c e compilamos com **C18** para arquivo **.cof** ou **.hex.**
 ___
