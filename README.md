@@ -1,4 +1,4 @@
-# Calculadora Arimética: Sistema Embacado - _PIC 18F4520_
+# Calculadora Arimética: Sistema Embarcado - _PIC 18F4520_
 
 ![DEMO](https://github.com/jbrun0r/Calculadora-Aritm-tica-PIC-18F4520/blob/main/CALCULADORA.gif?raw=true)
 
